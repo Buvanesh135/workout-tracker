@@ -1,0 +1,51 @@
+.title{
+    font-size: 50px;
+    color:red;
+    text-align: center;
+}
+.dummy{
+    font-size: 30px;
+    color:rgb(255, 255, 255)
+
+}
+table ,tr{
+    padding:20px 20px 20px 20px;
+    font-size:20px;
+   
+
+}
+ th{
+    font-size: 20px;
+    color:red;
+    border:3px red;
+}
+td{
+    font-size: 20px;
+    color:white;
+}
+body{
+  
+    background-color:black;
+    background-repeat: no-repeat;
+}
+.about{
+    color:rgb(255, 255, 255);
+    font-size:40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+ul ,li{
+    color: white;
+    font-size: 30px;
+    list-style-type:square;
+}
+.row{
+    color:white;
+}
+.btn{
+    background-color: red;
+    color:white;
+}
+
+
+  

@@ -1,0 +1,69 @@
+body{
+    
+    background-repeat:x-repeat;
+    background-color:black;
+}
+.container{
+    height:500px;
+    width:100%;
+}
+h3{
+    color:rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+.row{
+    height:400px;
+    width:100%;
+    background-color: cyan;
+   
+}
+.c1{
+    height: 400px;
+    width:500px;
+    border :2px solid rgb(219, 93, 9);
+}
+.c1:hover{
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+}
+.c2{
+    height: 400px;
+    width:25%;
+    border :2px solid rgb(219, 93, 9);
+}
+.c2:hover{
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+}
+.c3{
+    height: 400px;
+    width:25%;
+    border :2px solid rgb(219, 93, 9);
+}
+.c3:hover{
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+}
+.c4{
+    height: 400px;
+    width:25%;
+    border :2px solid rgb(219, 93, 9);
+}
+.c4:hover{
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+}
+img{
+    height:300px;
+    width:300px;
+}
+span{
+    text-align: center;
+    color:rgb(0, 0, 0);
+     
+}
+.alldone{
+    margin-left:600px;
+}

@@ -1,0 +1,137 @@
+body  
+{  
+    background-color:black;
+    background-repeat: no-repeat;
+}
+.login{  
+        width: 500px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+        background: #234643;  
+        border-radius: 15px ;  
+}  
+.signin
+{
+    width: 382px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+        background: #23463f;  
+        border-radius: 15px ;  
+}
+h2{  
+    text-align: center;  
+    color: #277582;  
+    padding: 20px;  
+}  
+label{  
+    color: #08ffd1;  
+    font-size: 17px;  
+}  
+#Uname{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#Pass{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px; 
+}  
+#log{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: rgb(255, 255, 255); 
+    background-color: #598be3;
+  
+  
+}  
+span{  
+    color: white;  
+    font-size: 17px;  
+}  
+ 
+#firstname{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#lastname{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#email{
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}
+#confirmPass{
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+     
+}
+.ic{
+    text-align: center;
+    padding-left: 100px;
+}
+.forget{
+    text-decoration: none;
+    color:aliceblue;
+    float:right;
+}
+.sig{
+    text-decoration: none;
+    color:aliceblue;
+}
+.fa-google{
+        background-color:red;
+        color: white; 
+        border-radius:15px;   
+        padding-left:20px;
+        
+}
+.icon{
+    align-content:center;
+    margin-left:70px;
+  }
+.fa {  
+    padding: 10px;  
+  text-align: center;  
+    margin: 5px 2px;  
+    font-size: 30px;  
+    width: 50px;  
+  }  
+  .fa-facebook {  
+    background: #3B5998;  
+    color: white;
+    border-radius:15px;   
+    padding-left:20px; 
+  
+  }  
+  .fa-twitter {  
+    background: #55ACEE;  
+    color: white; 
+    border-radius:15px;    
+    padding-left:20px;
+    
+  } 

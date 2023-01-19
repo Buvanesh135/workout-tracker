@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600&display=swap");
+body{
+   
+    background-repeat: no-repeat;
+}
+.container{
+    margin-top:100px;
+    height:500px;
+    width:800px;
+    background-color: yellowgreen;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    color:aliceblue;
+    padding-top:20px;
+    padding-left:540px;
+    font-size: 0px;
+}
+.row{
+   background-color: rgb(44, 44, 166);
+   height:500px;
+}
+.c1{
+    width:250px;
+    border:3px solid greenyellow;
+    background: linear-gradient(130deg, rgb(213, 25, 25) 100%, transparent 90%);
+}
+.c1:hover{
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+}
+
+.c2{
+    width:250px;
+    background: linear-gradient(130deg, rgb(194, 23, 23) 100%, transparent 90%);
+    border:3px solid greenyellow;
+}
+.c2:hover{
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+}
+.c3{
+    width:250px;
+    border:3px solid greenyellow;
+    background: linear-gradient(130deg, #f00 100%, transparent 90%);
+    cursor: pointer;
+}
+.c3:hover {
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+  }
+.beginner{
+    font-size:40px;
+    color:aliceblue;
+    font-style: italic;
+}
+.intermediate{
+    font-size:40px;
+    color:aliceblue;
+    font-style: italic;
+
+}
+.advanced{
+    font-size:40px;
+    color:aliceblue;
+    font-style: italic;
+
+
+}
+.img{
+    width:430px;
+    height:400px;
+}

@@ -1,0 +1,84 @@
+body{
+    
+    background-repeat: no-repeat;
+    overflow: hidden;
+    transition-delay:2s;
+}
+.frontdesign{
+ 
+    height:100%;
+    width:100%;
+    
+}
+.navbar{
+    text-align: right;
+    font-size:17px;
+    width:100%;
+    margin-left:600px;
+    padding:100px 100px 100px 100px;
+
+    -webkit-animation: fadeIn 1s ease-in;
+          animation: fadeIn 1s ease-in;
+}
+
+.ic1
+{
+    color: white;
+    padding:20px 20px 20px 20px;
+}
+.ic1:hover{
+    background-color:red;
+    text-decoration: none;
+    color:white;
+}
+.ic2
+{
+    color: white;
+    padding:20px 20px 20px 20px;
+}
+.ic2:hover{
+    background-color:red;
+    text-decoration: none;
+    color:white;
+}
+.ic3
+{
+    color: white;
+    padding:20px 20px 20px 20px;
+
+}
+.ic3:hover{
+    background-color:red;
+    text-decoration: none;
+    color:white;
+}
+.ic4
+{
+    color: white;
+    padding:20px 20px 20px 20px;
+}
+.ic4:hover{
+    background-color:red;
+   
+ 
+    text-decoration: none;
+    color:white;
+}
+h3{
+    color:red;
+    font-size:50px;
+}
+.btn {
+  
+    background: linear-gradient(130deg, #f00 100%, transparent 90%);
+    cursor: pointer;
+    border:#f00;
+    margin-left:200px;
+    margin-top:30px;
+  }
+  
+  .btn:hover {
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+  }
+  
